@@ -1,4 +1,4 @@
-# CS131 Assignment 04 - Constraint Satisfaction Problems
+# Sudoku Solver
 ## Instructions to run and test
 From the root directory, run the following command in the 
 command line:
